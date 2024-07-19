@@ -1,4 +1,14 @@
-# codealpha_task2
+Name: Hemant Baghel
+Company: CODE ALPHA
+ID: CA/JL1/20299
+Domain: C++ programming 
+Duration: 15 July to 15 August
+ 
+
+Overview of the Project
+
+Project: Creating a SUDUKO SOLVER using C++ programming
+
 
  Objective:
 Implement a Sudoku solver using C++ that can solve a 9x9 Sudoku grid using backtracking.
